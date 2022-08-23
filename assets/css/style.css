@@ -620,7 +620,7 @@ section {
   width: 700px;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  background-image: url(assets/img/alberca.jpg);
+  background-image: url(/assets/img/alberca.jpg);
   background-size: cover;
 }
 .icon-box1 p{
@@ -633,7 +633,7 @@ section {
   height: 450px;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  background-image: url(assets/img/nickaqua.jpg);
+  background-image: url(/assets/img/nickaqua.jpg);
   background-size: cover;
 }
 .icon-box3 {
@@ -643,7 +643,7 @@ section {
   height: 550px;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  background-image: url(assets/img/nicksuit.jpg);
+  background-image: url(/assets/img/nicksuit.jpg);
   background-size: cover;
 }
 .icon-box4 {
@@ -653,7 +653,7 @@ section {
   height: 550px;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  background-image: url(assets/img/pareja.jpg);
+  background-image: url(/assets/img/pareja.jpg);
   background-size: cover;
 }
 .icon-box5 {
@@ -663,7 +663,17 @@ section {
   height: 550px;
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
-  background-image: url(assets/img/swim.jpg);
+  background-image: url(/assets/img/swim.jpg);
+  background-size: cover;
+}
+.icon-box6 {
+  text-align: center;
+  border: 1px solid #ebebeb;
+  width: 340px;
+  height: 550px;
+  padding: 80px 20px;
+  transition: all ease-in-out 0.3s;
+  background-image: url(/assets/img/spa.jpg);
   background-size: cover;
 }
 
